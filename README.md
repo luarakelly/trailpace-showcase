@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="./assets/home.png" alt="Trailpace Logo" width="300"/>
-  <img src="./assets/recoding.png" alt="Trailpace Logo" width="500"/>
+  <img src="./assets/recoding.png" alt="Trailpace Logo" width="400"/>
   <img src="./assets/explore.png" alt="Trailpace Logo" width="300"/>
 </p>
 
