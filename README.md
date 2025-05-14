@@ -8,11 +8,11 @@
 
 ## ✨ Features
 
-- 🗺️ **Offline-first Maps** – Custom vector tiles with MapLibre ✅ 
-- 🏃 **Activity Tracking** – Distance, speed, time, calories ✅  
-- 🔖 **Trail Bookmarking & Sharing**  
-- 📰 **RSS Feed Integration** – Powered by Substack ✅  
-- 🎯 **Tag-based Trail Discovery** ✅  
+- 🗺️ **Offline-first Maps** – Custom vector tiles with MapLibre ✅
+- 🏃 **Activity Tracking** – Distance, speed, time, calories ✅
+- 🔖 **Trail Bookmarking & Sharing**
+- 📰 **RSS Feed Integration** – Powered by Substack ✅
+- 🎯 **Tag-based Trail Discovery** ✅
 
 ---
 
@@ -38,19 +38,19 @@ Get the latest APK release and explore the trails today:
 
 ## 🧠 Tech Stack
 
-| Layer            | Tech                                 |
-|------------------|--------------------------------------|
-| Mobile Framework | React Native (Expo)                  |
-| Local Storage    | SQLite                               |
-| Cloud Sync/Auth  | Supabase                             |
-| Mapping Engine   | MapLibre GL + custom vector tiles    |
-| Content Feeds    | Substack RSS                         |
+| Layer            | Tech                              |
+| ---------------- | --------------------------------- |
+| Mobile Framework | React Native (Expo)               |
+| Local Storage    | SQLite                            |
+| Cloud Sync/Auth  | Supabase                          |
+| Mapping Engine   | MapLibre GL + custom vector tiles |
+| Content Feeds    | Substack RSS                      |
 
 ---
 
 ## 📄 Documentation
 
-- 📘 [Architecture Overview](./docs/ARCHITECTURE.md)  
+- 📘 [Architecture Overview](./docs/ARCHITECTURE.md)
 - 🗃️ [Database Design](./docs/DATABASE.md)
 
 ---
@@ -61,4 +61,3 @@ Get the latest APK release and explore the trails today:
 > Trailpace helps you take the first step into the wild.
 
 ---
-
