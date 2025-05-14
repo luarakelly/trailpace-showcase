@@ -1,5 +1,5 @@
 # Trailpace – Outdoor Adventure Companion 
-<img src="./assets/trailPace-logo.png" alt="Trailpace Logo" width="200"/>
+<img src="./assets/trailPace-logo.png" alt="Trailpace Logo" align="center" width="200"/>
 
 **Trailpace** is a mobile app for outdoor enthusiasts — explore trails, track activities, and stay connected with nature, even offline.
 
@@ -15,16 +15,14 @@
 
 ---
 
-## 🧱 Architecture Overview
-
-Trailpace is built with a **Micro-Monolith** architecture for maintainable yet fast development:
-
-- ⚙️ Layered architecture (UI · Logic · Data)  
-- 🧩 Modular screen managers (micro frontend-style)  
-- 💾 Local-first DB (SQLite) with cloud sync (Supabase)
+## 🧱 APP Architecture and DB Design Overview
 
 <p align="center">
-  <img src="./assets/app-architecture.png" alt="Architecture Diagram" width="600"/>
+  <img src="./assets/app-architecture.png" alt="Architecture Diagram" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./assets/app-local-db.png" alt="Architecture Diagram" width="700"/>
 </p>
 
 ---
