@@ -1,0 +1,3 @@
+# Database Design
+
+Tables, relationships, and data sync logic...

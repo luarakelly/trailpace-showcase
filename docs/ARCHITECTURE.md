@@ -1,0 +1,3 @@
+# Architecture
+
+Details on the app's architectural choices...
