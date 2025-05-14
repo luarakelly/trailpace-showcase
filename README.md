@@ -1,50 +1,65 @@
-# Trailpace – Showcase
+# Trailpace – Outdoor Adventure Companion 
 <img src="./assets/trailPace-logo.png" alt="Trailpace Logo" width="200"/>
 
-Is a mobile app for outdoor sports enthusiasts, offering offline maps, activity tracking, and trail discovery.
+**Trailpace** is a mobile app for outdoor enthusiasts — explore trails, track activities, and stay connected with nature, even offline.
 
 ---
 
-## 🔍 Features
+## ✨ Features
 
-- 🗺 Offline-first maps (MapLibre + custom vector tiles) ✅ basic func.
-- 🏃 Activity tracking with distance, speed, time, calories ✅
-- 🔖 Trail bookmarking and sharing
-- 📰 Integrated RSS feed ✅
-- 🎯 Tag-based trail search ✅
+- 🗺️ **Offline-first Maps** – Custom vector tiles with MapLibre  
+- 🏃 **Activity Tracking** – Distance, speed, time, calories ✅  
+- 🔖 **Trail Bookmarking & Sharing**  
+- 📰 **RSS Feed Integration** – Powered by Substack ✅  
+- 🎯 **Tag-based Trail Discovery** ✅  
 
 ---
 
 ## 🧱 Architecture Overview
 
-Trailpace uses a **Micro-Monolith** architecture, with:
+Trailpace is built with a **Micro-Monolith** architecture for maintainable yet fast development:
 
-- Layered separation (UI, Logic, Data)
-- Micro frontend-like UI screen managers
-- Local-first DB (SQLite)
+- ⚙️ Layered architecture (UI · Logic · Data)  
+- 🧩 Modular screen managers (micro frontend-style)  
+- 💾 Local-first DB (SQLite) with cloud sync (Supabase)
 
-![Architecture Diagram](./assets/app-architecture.png)
+<p align="center">
+  <img src="./assets/app-architecture.png" alt="Architecture Diagram" width="600"/>
+</p>
 
 ---
 
-## 📱 APK Preview
+## 📲 Try It Out
 
-Download the latest release:  
-👉 [trailpace-v1.0.0.apk](https://github.com/luarakelly/trailpace-showcase/releases/latest)
+Get the latest APK release and explore the trails today:
+
+👉 **[Download trailpace-v1.0.0.apk](https://github.com/luarakelly/trailpace-showcase/releases/latest)**
 
 ---
 
 ## 🧠 Tech Stack
 
-- React Native (Expo)
-- SQLite (local DB)
-- Supabase (auth + sync)
-- Substack RSS
-- MapLibre GL + custom vector tiles
+| Layer            | Tech                                 |
+|------------------|--------------------------------------|
+| Mobile Framework | React Native (Expo)                  |
+| Local Storage    | SQLite                               |
+| Cloud Sync/Auth  | Supabase                             |
+| Mapping Engine   | MapLibre GL + custom vector tiles    |
+| Content Feeds    | Substack RSS                         |
 
 ---
 
-## 📄 Docs
+## 📄 Documentation
 
-- [Architecture](./docs/ARCHITECTURE.md)
-- [Database Design](./docs/DATABASE.md)
+- 📘 [Architecture Overview](./docs/ARCHITECTURE.md)  
+- 🗃️ [Database Design](./docs/DATABASE.md)
+
+---
+
+## 🌲 Built for Trail Seekers
+
+> “Where the path ends, the adventure begins.”  
+> Trailpace helps you take the first step into the wild.
+
+---
+
