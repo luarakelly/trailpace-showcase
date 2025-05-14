@@ -1,6 +1,7 @@
 # Trailpace – Showcase
+![Architecture Diagram](./assets/trailPace-logo.png)
 
-**Trailpace** is a mobile app for outdoor sports enthusiasts, offering offline maps, activity tracking, and trail discovery.
+Is a mobile app for outdoor sports enthusiasts, offering offline maps, activity tracking, and trail discovery.
 
 ---
 
@@ -20,9 +21,9 @@ Trailpace uses a **Micro-Monolith** architecture, with:
 
 - Layered separation (UI, Logic, Data)
 - Micro frontend-like UI screen managers
-- Local-first DB (SQLite) + cloud sync (Supabase)
+- Local-first DB (SQLite)
 
-➡️ See the ![Architecture Diagram](./assets/app-architecture.png)
+![Architecture Diagram](./assets/app-architecture.png)
 
 ---
 
