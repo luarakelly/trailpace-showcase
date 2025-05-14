@@ -22,7 +22,7 @@ Trailpace uses a **Micro-Monolith** architecture, with:
 - Micro frontend-like UI screen managers
 - Local-first DB (SQLite) + cloud sync (Supabase)
 
-➡️ See the [Architecture Diagram](./assets/app-architecture.png)
+➡️ See the ![Architecture Diagram](./assets/app-architecture.png)
 
 ---
 
