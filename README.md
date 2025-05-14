@@ -1,5 +1,5 @@
 # Trailpace – Showcase
-![Architecture Diagram](./assets/trailPace-logo.png)
+<img src="./assets/trailPace-logo.png" alt="Trailpace Logo" width="200"/>
 
 Is a mobile app for outdoor sports enthusiasts, offering offline maps, activity tracking, and trail discovery.
 
