@@ -22,7 +22,7 @@
 
 ---
 
-## 🧱 APP Architecture and DB Design Overview
+## APP Architecture and DB Design Overview
 
 <p align="center">
   <img src="./assets/app-architecture.png" alt="Architecture Diagram" width="700"/>
