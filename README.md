@@ -1,4 +1,3 @@
-# Trailpace – Outdoor Adventure Companion 
 <p align="center">
   <img src="./assets/trailPace-logo.png" alt="Trailpace Logo" width="200"/>
 </p>
