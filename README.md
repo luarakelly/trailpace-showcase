@@ -14,6 +14,12 @@
 - 📰 **RSS Feed Integration** – Powered by Substack ✅
 - 🎯 **Tag-based Trail Discovery** ✅
 
+<p align="center">
+  <img src="./assets/home.png" alt="Trailpace Logo" width="700"/>
+  <img src="./assets/recoding.png" alt="Trailpace Logo" width="700"/>
+  <img src="./assets/explore.png" alt="Trailpace Logo" width="700"/>
+</p>
+
 ---
 
 ## 🧱 APP Architecture and DB Design Overview
