@@ -15,9 +15,9 @@
 - 🎯 **Tag-based Trail Discovery** ✅
 
 <p align="center">
-  <img src="./assets/home.png" alt="Trailpace Logo" width="200"/>
+  <img src="./assets/home.png" alt="Trailpace Logo" width="210"/>
   <img src="./assets/recoding.png" alt="Trailpace Logo" width="270"/>
-  <img src="./assets/explore.png" alt="Trailpace Logo" width="200"/>
+  <img src="./assets/explore.png" alt="Trailpace Logo" width="210"/>
 </p>
 
 ---
