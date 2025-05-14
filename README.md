@@ -2,7 +2,7 @@
   <img src="./assets/trailPace-logo.png" alt="Trailpace Logo" width="200"/>
 </p>
 
-**Trailpace** is a mobile app for outdoor enthusiasts — explore trails, track activities, and stay connected with nature, even offline.
+**Trailpace** is an android mobile app for outdoor enthusiasts — explore trails, track activities, and stay connected with nature, even offline.
 
 ---
 
